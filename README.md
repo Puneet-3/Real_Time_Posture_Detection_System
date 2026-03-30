@@ -31,18 +31,6 @@ No affordable real-time solution exists for personal posture monitoring.
 
 ---
 
-## Demo
-
-> Good posture → Green bar
-
-![Good Posture](screenshots/good_posture.png)
-
-> Bad posture → Red bar + alert
-
-![Bad Posture](screenshots/bad_posture.png)
-
----
-
 ## Tech Stack
 
 | Tool | Version | Purpose |
